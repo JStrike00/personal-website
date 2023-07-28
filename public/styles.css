@@ -1,11 +1,15 @@
 
+.about {
+    text-align: left;
+    margin-top: 20px;
+}
+
 .outer-container {
-    width: 100%;
     height: 100vh;
     background-color: #080202;
 }
 
-.outer-container img {
+.container img {
     height: 100px;
     width: 100px;
     border-radius: 50%;
@@ -15,5 +19,46 @@
 
 .container {
     background-color:dimgrey;
+    
 }
 
+.form-control {
+    display: inline-block;
+    width: 70%;
+}
+
+.hobbies {
+    text-align: left;
+    padding: 20px;
+}
+
+.navbar {
+    padding-bottom: 0;
+}
+
+
+.navi {
+    padding: 0;
+}
+
+.row {
+    padding-top: 30px;
+}
+
+.skill {
+    padding: 20px;
+}
+
+img.video-games {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    float:left;
+}
+
+img.computer {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    float:right;
+}
