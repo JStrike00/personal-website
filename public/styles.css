@@ -5,9 +5,10 @@
 }
 
 .outer-container {
-    height: 100vh;
+    height: 100%;
     background-color: #080202;
 }
+
 
 .container img {
     height: 100px;
@@ -21,6 +22,8 @@
     background-color:dimgrey;
     
 }
+
+
 
 .form-control {
     display: inline-block;
